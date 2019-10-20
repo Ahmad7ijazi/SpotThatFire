@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spot That Fire</string>
+    <string name="report_fire_btn">Report a Fire</string>
+    <string name="title_activity_fire_map">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_locate_fire">LocateFireActivity</string>
+</resources>
